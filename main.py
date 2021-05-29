@@ -313,7 +313,7 @@ if __name__ == '__main__':
 
         # quit
         elif 'offline' in query:
-            speak("going Offline I hope you understood who i am")
+            speak("going offline thank you for having me")
             quit()
 
 
